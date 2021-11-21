@@ -1,0 +1,40 @@
+body {
+    background-color: aqua;
+}
+
+.ingridients {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.ingridients-table {
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.instructions {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.instructions ol {
+    border: 1px solid red;
+    margin: 0 auto;
+    width: 75%;
+}
+
+.ingridients-table {
+    color: green;
+}
+
+.instructions {
+    color: green;
+}
+
+.playground-heading{
+    color: red;
+    font-family: 'Lobster', cursive;
+    font-size: 5rem;
+}
